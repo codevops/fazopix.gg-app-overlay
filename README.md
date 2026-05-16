@@ -12,8 +12,8 @@ seu jogo, enquanto você joga ao vivo. 🎮
 1. Baixe e abra o instalador
 2. Abra o **FazoPix Overlay** — o atalho fica na área de trabalho
 3. Cole o link do seu overlay de trolagem (você encontra no painel da FazoPix,
-   em **Configurações → Trolagens**)
-4. Escolha em qual monitor a trolagem deve aparecer
+   em **https://fazopix.gg/settings?tab=trolagens**)
+4. Escolha em qual monitor a trolagem deve aparecer. (escolha o monitor que você joga)
 5. Pronto! Quando alguém doar uma trolagem, ela aparece sobre o seu jogo 🎉
 
 > 💜 Dica: jogue em modo **janela** (borderless / janela sem borda) para a
