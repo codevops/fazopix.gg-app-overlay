@@ -5,7 +5,7 @@ seu jogo, enquanto você joga ao vivo. 🎮
 
 ## ⬇️ Baixar
 
-### [» Baixar o FazoPix Overlay para Windows «](https://github.com/codevops/fazopix.gg-app-overlay/releases/latest/download/fazopix-overlay-setup.exe)
+### [» Baixar o FazoPix Overlay para Windows «](https://github.com/codevops/fazopix.gg-app-overlay/releases/latest/download/FazopixAlertasSetup.exe)
 
 ## Como instalar e usar
 
